@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808504019220",
+    "project_id": "biodata-c0c51",
+    "storage_bucket": "biodata-c0c51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808504019220:android:b302a30b75e200710f1a01",
+        "android_client_info": {
+          "package_name": "com.praktik.biodata1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQZF80q8airOfo86CsZPJY7pOHIXdmwfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
