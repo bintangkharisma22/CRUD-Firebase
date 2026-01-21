@@ -142,6 +142,9 @@
         <mxCell id="Lc3hqc5NWe8LTwkapu9C-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10: File Excel terunduh" vertex="1">
           <mxGeometry height="30" width="130" x="253" y="337" as="geometry" />
         </mxCell>
+        <mxCell id="Lc3hqc5NWe8LTwkapu9C-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Admin/Manager" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
